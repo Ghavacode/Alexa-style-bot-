@@ -6,4 +6,4 @@ You can see the Video demo below.
 
 https://vimeo.com/523971277
 
-<iframe src="https://player.vimeo.com/video/523971277?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Alexa type bot- Python"></iframe>
+"https://player.vimeo.com/video/523971277?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
